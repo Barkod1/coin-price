@@ -1,0 +1,51 @@
+#h1{
+    background-color:#6C464F;
+    color:#EBD847;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    margin: 0 0;
+    text-align:center;
+    padding: 5px 0;
+}
+#input{
+    width:300px;
+    height:40px;
+    border: solid 1px #D6F49D;
+    font-size: 15px;
+    background-color: #B6D6CC;
+    color: #74A4BC;
+
+}
+#button{
+    height:45px;
+    margin-left: 5px;
+    background-color:#A2D3C2;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    transition:all 0.2s;
+    border-radius: 10%;
+    border: solid 1px #D6F49D;
+    font-size: 15px;
+
+
+}
+#button:hover{
+    background-color:#66B79B;
+}
+form{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+}
+h3{
+    color: #4C1A21;
+}
+#info-coin-box{
+    text-align:center;
+}
+body{
+    background-color:#F1E47E;
+}
+p{
+    color: #4C1A21;
+    font-size: 20px;
+}
